@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class QueueExample {
+public class queue {
     public static void main(String[] args) {
         // Create a Queue using LinkedList
         Queue<String> queue = new LinkedList<>();
@@ -29,3 +29,4 @@ public class QueueExample {
         System.out.println("Is queue empty? " + queue.isEmpty());
     }
 }
+
